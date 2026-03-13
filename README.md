@@ -10,12 +10,7 @@ This is my First HTML Project
 - '<meta charset="UTF-8"' : Defines the character encoding
 - '<title>' : The title of the webpage
 - '<style>' : Used to write CSS inside HTML
-- '</style>' : Ends the CSS styling section
 - '<body>' : Contains all visible content if the webpage
-
-## Other Tags
-
 - '<h1>' : Heading tag used for main title
 - '<p>' : Paragraph tag used to write text paragraphs
-- '</body>' : Ends the visible content section
-- '</html>' : End of the html document
+
