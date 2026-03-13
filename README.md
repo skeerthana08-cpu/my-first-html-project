@@ -13,6 +13,9 @@ This is my First HTML Project
 - '<style>' : Used to write CSS inside HTML
 - '</style>' : Ends the CSS styling section
 - '<body>' : It contains all visible content if the webpage
+
+## Other Tags
+
 - '<h1>' : Heading tag used for main title
 - '<p>' : Paragraph tag used to write text paragraphs
 - '</body>' : Ends the visible content section
