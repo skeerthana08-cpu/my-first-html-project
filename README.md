@@ -4,7 +4,7 @@ This is my First HTML Project
 
 ## Tags used
 
-- '&lt;!DOCTYPE html;' : This tells the browser that the document is written in HTML5
+- '&lt;!DOCTYPE html>' : This tells the browser that the document is written in HTML5
 - '&lt;html lang="en";' : This the root element of an HTML document
 - '&lt;head;' : Contains information about the webpage but not visible on the page
 - '&lt;meta charset="UTF-8";' : Defines the character encoding
